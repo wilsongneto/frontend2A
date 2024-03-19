@@ -11,9 +11,10 @@
 
 .principal {
     background-color: #d4d4d4;
-
+    height: 200px;
 }
 
 .rodape {
     background-color: #f2f2a2;
+    height: 300px;
 }
